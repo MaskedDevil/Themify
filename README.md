@@ -1,2 +1,2 @@
 # Themify
-Theme Change Standard Website
+Change between various themes
